@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enestanz
-- 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning tensorflow
+- 👀 I’m interested in Data Analysis, AI and machine learning
+- 🌱 I’m currently learning PowerBi 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me enestanz@gmail.com
 
